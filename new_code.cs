@@ -2,6 +2,6 @@ using System;
 
 class Program{
     static void Main(string[] args){
-        console.WriteLine("Hello, World!");
+        console.WriteLine("Hello, World!"); // as
     }
 }
